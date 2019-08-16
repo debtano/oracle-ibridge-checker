@@ -1,0 +1,6 @@
+{
+	"Tenant": "mytenant",
+	"IDCS": "https://idcs-xxxxxxxxxxxxxxxxxxxxxxxxxx",
+	"ClientID": "zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz",
+	"ClientSecret": "yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy"
+}
